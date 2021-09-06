@@ -40,7 +40,7 @@ After this the updated records file is stored in afterpurchase.json where the qu
 
 **Future scope:-**
 
--->We can automate the inventory such that if any item whise quantity is '0' the message should be displayed as 'The item you requested for is not in stock, please pre-order' then the user has to enter the items required.
+-->We can automate the inventory such that if any item whose quantity is '0' the message should be displayed as 'The item you requested for is not in stock, please pre-order' then the user has to enter the items required.
 
 -->We can also delete the items that are not used extensively by the customers. We can also update the quantity of the item whose quantity is less but more in demand.
 
