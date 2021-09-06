@@ -16,17 +16,17 @@ JSON is a language-autonomous information design. It was gotten from JavaScript,
 ->sales.json file holds the Transaction details and the items left in the inventory.
 
 
-**IMS.ipynb**
+**IMS.ipynb:-**
 
 Here we are adding the items into the inventory asking the input from the user. (The key company for 1001-1014 items is [company] and the key company for 1015-1030 items is [Company]). the upadated inventory is stored in records.json.
 
-**IMS purchasing products.ipynb**
+**IMS purchasing products.ipynb:-**
 
 Here the user can purchase the items from the inventory and the total billing amount is generated and displayed to the user in the form of bill. and the time is displayed at which the useer purchased the item.
 
 After this the updated records file is stored in afterpurchase.json where the quantity of the items purchased is reduced. Then the items purchased is stored in sales.json file this file also contains the details of what is remining in inventory after purchasing a particular item.
 
-**Features**
+**Features:-**
 
 -->Adding new item to the exixting inventory.
 
@@ -38,7 +38,7 @@ After this the updated records file is stored in afterpurchase.json where the qu
 
 -->displaying the time and date of the transaction.
 
-**Future scope**
+**Future scope:-**
 
 -->We can automate the inventory such that if any item whise quantity is '0' the message should be displayed as 'The item you requested for is not in stock, please pre-order' then the user has to enter the items required.
 
