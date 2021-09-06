@@ -18,6 +18,8 @@ JSON is a language-autonomous information design. It was gotten from JavaScript,
 
 **IMS.ipynb**
 
-****
+Here we are adding the items into the inventory asking the input from the user. (The key company for 1001-1014 items is [company] and the key company for 1015-1030 items is [Company]). the upadated inventory is stored in records.json.
+
+**IMS.ipn
 
 
